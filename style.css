@@ -50,7 +50,7 @@ nav ul li{
    width: 70%;
    border-radius: 12px;
    padding: 34px;
-   background-image: url('SL.123119.26540.04.jpg');
+    background-color: rgb(61, 83, 88);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -88,7 +88,7 @@ nav ul li{
 .songItem{
     height: 50px;
     display: flex;
-    background-image: url('SL.123119.26540.04.jpg');
+    background-color: rgb(43, 63, 68);
     background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
